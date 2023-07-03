@@ -1,3 +1,6 @@
+# Comandos de consola Linux
+
+
 ### Información del sistema
 
 `arch`: mostrar la arquitectura de la máquina (1).<br>
@@ -469,3 +472,6 @@ Recuperar la consola de BASH por defecto cuando se ejecuta otra shell:
 ```bash
 $ nsudo chsh --shell=/bin/bash $USER
 ```
+
+
+Ref: https://gist.github.com/ElenaMLopez/88c37c58a0c9ff7242a77c9a8eaea553
